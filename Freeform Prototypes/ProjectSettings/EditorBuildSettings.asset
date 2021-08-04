@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/TesseractSpinning.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SkeletonWarrior.unity
+    guid: 3b4d5c2f166dab146a5c5e54fbe7d18b
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e8da7b977bd047d4aa6a63eccb50efc1, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4acb35faa3822b84698b4f4319348c9c, type: 2}
